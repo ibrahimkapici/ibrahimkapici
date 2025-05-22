@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Kapici</h1>
 <h3 align="center">A passionate bioengineer, working as SAP ABAP and Fiori consultant</h3>
 
-- 🌱 I’m currently learning and developing **Java, Springboot, ABAP, Fiori**
 
-- 📫 How to reach me **ibrhm.kapici@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/ibrahimkapici/Resume/blob/main/Ibrahim%20Kapici%20Resume%2008.22.pdf](https://github.com/ibrahimkapici/Resume/blob/main/Ibrahim%20Kapici%20Resume%2008.22.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
